@@ -8,7 +8,7 @@ Today, on our Recap Session we're going to use Doggo API to display cute photos 
 
 ### Clone the Repo and Install NPM Packages
 
-Hint: you have already the package-lock.json. So, after cloning the lab, you should only need to 'npm install' to download the npm packages that are needed 😉
+Hint: you have already the package-lock.json. So, after cloning the lab, you should only need to do 'npm install' to download the npm packages that are needed 😉
 
 <br>
 
