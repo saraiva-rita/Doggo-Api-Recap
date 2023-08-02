@@ -1,4 +1,4 @@
-### 🐶 Doggo API Recap
+### 🐶 Doggo API Recap 🐶
 
 Today, on our Recap Session we're going to use Doggo API to display cute photos of dogs 🥺
 
@@ -12,10 +12,26 @@ Hint: you have already the package-lock.json. So, after cloning the lab, you sho
 
 ### 1st Interation: Display 5 Random Images on your Homepage
 
-After having your project configured, check your app.js file. There you will find some basic Express / HBS configurations with already two 'GET' request routes created. 
+After having your project configured, check your app.js file. There you will find some basic Express / HBS configurations with already two 'GET' Request Routes created. 
 
 Let's start with the first one. Inside GET '/' you should call your Doggo API to retrieve you 5 random Dog Photos 🐕🐕🐕🐕🐕
 
 How can you do that? Just follow the documentation that is here: https://www.npmjs.com/package/doggo-api-wrapper 
 
-After having the data with you, display it on the Browser, using your index.hbs file. 
+After having the data with you, display it on the Browser, using your all-breeds.hbs file. 
+
+
+### 2nd Interation: Display a Schnauzer Image on your Schnauzer Page
+
+5 random Dog Photos is a cool ideia, but what about my doggo? He's a Schnauzer Miniature and he needs a single page for him. 
+
+To do that, check your GET '/schnauzer' Route and the API Documentation that you have already. 
+
+After having the data with you, display it on the Browser, using your schnauzer.hbs file. 
+
+Hint: do not forget that 'Schnauzer' is a breed and 'Miniature' a sub-breed 🧐
+
+
+### BONUS: CSS, CSS, CSS 🎉
+
+
