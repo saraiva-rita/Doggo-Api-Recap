@@ -10,12 +10,12 @@ Today, on our Recap Session we're going to use Doggo API to display cute photos 
 
 Hint: you have already the package-lock.json. So, after cloning the lab, you should only need to 'npm install' to download the npm packages that are needed 😉
 
-<br>
-
 ### 1st Interation: Display 5 Random Images on your Homepage
 
 After having your project configured, check your app.js file. There you will find some basic Express / HBS configurations with already two 'GET' request routes created. 
 
-Let's start with the first one. Inside GET '/' you should call your Doggo API to retrieve you 5 random Dog Photos. 
+Let's start with the first one. Inside GET '/' you should call your Doggo API to retrieve you 5 random Dog Photos 🐕🐕🐕🐕🐕
 
-How can you do that? No less, no more - everything you need is here: https://www.npmjs.com/package/doggo-api-wrapper 
+How can you do that? Just follow the documentation that is here: https://www.npmjs.com/package/doggo-api-wrapper 
+
+After having the data with you, display it on the Browser, using your index.hbs file. 
