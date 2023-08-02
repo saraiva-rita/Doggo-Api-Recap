@@ -20,7 +20,7 @@ Let's start with the first one. Inside GET '/' you should call your Doggo API to
 
 How can you do that? Just follow the documentation that is here: https://www.npmjs.com/package/doggo-api-wrapper 
 
-After having the data with you, display it on the Browser, using your all-breeds.hbs file. 
+After having the data with you, display it on the Browser, using your <b>all-breeds.hbs</b> file. 
 
 <br>
 
@@ -30,7 +30,7 @@ After having the data with you, display it on the Browser, using your all-breeds
 
 To do that, check your GET '/schnauzer' Route and the API Documentation that you have already. 
 
-After having the data with you, display it on the Browser, using your schnauzer.hbs file. 
+After having the data with you, display it on the Browser, using your <b>schnauzer.hbs</b> file. 
 
 Hint: do not forget that 'Schnauzer' is a breed and 'Miniature' a sub-breed 🧐
 
