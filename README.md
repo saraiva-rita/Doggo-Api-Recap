@@ -36,6 +36,4 @@ After having the data with you, display it on the Browser, using your <b>schnauz
 
 <br>
 
-### BONUS: CSS, CSS, CSS 🎉
-
-
+### Bonus: CSS, CSS, CSS 🎉
