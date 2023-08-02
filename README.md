@@ -32,7 +32,7 @@ To do that, check your GET '/schnauzer' Route and the API Documentation that you
 
 After having the data with you, display it on the Browser, using your <b>schnauzer.hbs</b> file. 
 
-Hint: do not forget that 'Schnauzer' is a breed and 'Miniature' a sub-breed 🧐
+<b>Hint: do not forget that 'Schnauzer' is a breed and 'Miniature' a sub-breed 🧐 </b>
 
 <br>
 
